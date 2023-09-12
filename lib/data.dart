@@ -26,7 +26,6 @@ class PostData {
   final int id;
   final String caption;
   final String title;
-  
   final String likes;
   final String time;
   final bool isBookmarked;
